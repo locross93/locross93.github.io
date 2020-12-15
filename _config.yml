@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Logan Cross"
 title_separator          : "-"
 name                     : &name "Logan Cross"
-description              : &description "Phd Student in Computation and Neural Systems at Caltech"
+description              : &description "PhD Student in Computation and Neural Systems at Caltech"
 url                      : https://locross93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "locross93/locross93.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Logan Cross"
   avatar           : "profile.png"
-  bio              : "Phd Student in Computation and Neural Systems at Caltech"
+  bio              : "PhD Student in Computation and Neural Systems at Caltech"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
