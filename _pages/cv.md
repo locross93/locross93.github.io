@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Current CV](https://github.com/locross93/locross93.github.io/blob/master/files/Logan_Cross_CV.pdf)
+[Current CV](https://locross93.github.io/files/Logan_Cross_CV.pdf)
