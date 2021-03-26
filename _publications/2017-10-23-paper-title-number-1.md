@@ -6,7 +6,7 @@ excerpt: ''
 date: 2017-10-23
 venue: 'Nature Neuroscience'
 paperurl: 'https://www.nature.com/articles/s41593-017-0008-x'
-citation: 'Suzuki, S., Cross, L. & O’Doherty, J.P. Elucidating the underlying components of food valuation in the human orbitofrontal cortex. Nature Neuroscience 20, 1780–1786 (2017). https://doi.org/10.1038/s41593-017-0008-x'
+citation: 'Suzuki, S., Cross, L. & O’Doherty, J.P. (2017). Elucidating the underlying components of food valuation in the human orbitofrontal cortex. Nature Neuroscience 20, 1780–1786. https://doi.org/10.1038/s41593-017-0008-x'
 ---
 Abstract
 =====
