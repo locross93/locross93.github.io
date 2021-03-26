@@ -3,10 +3,10 @@ title: "Using deep reinforcement learning to reveal how the brain encodes abstra
 collection: publications
 permalink: /publication/2020-12-15-paper-title-number-3
 excerpt: ''
-date: 2020-12-15
+date: 2021-02-17
 venue: 'Neuron'
 paperurl: 'https://www.cell.com/neuron/fulltext/S0896-6273(20)30899-0'
-citation: 'Cross, L., Cockburn, J., Yue, Yisong, & O’Doherty, J.P. Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments. Neuron (2020). https://doi.org/10.1016/j.neuron.2020.11.021.'
+citation: 'Cross, L., Cockburn, J., Yue, Yisong, & O’Doherty, J.P. (2021). Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments. Neuron, 109(4), 724-738. https://doi.org/10.1016/j.neuron.2020.11.021.'
 ---
 Abstract
 =====
