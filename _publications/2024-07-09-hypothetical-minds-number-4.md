@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-07-09
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2407.07086'
-citation: 'Cross, L., Xiang, V., Haber, N., \& Yamins, D. (2024). Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models. arXiv preprint arXiv:2407.07086.'
+citation: 'Cross, L., Xiang, V., Haber, N., & Yamins, D. (2024). Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models. arXiv preprint arXiv:2407.07086.'
 ---
 Abstract
 =====
