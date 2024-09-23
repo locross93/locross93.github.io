@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-05-10
 venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'
 paperurl: 'https://escholarship.org/uc/item/7r41x81m'
-citation: '\textbf{Cross, L}., Xiang, V., Haber, N., \& Yamins, D. (2024). Animate Agent World Modeling Benchmark. In \textit{Proceedings of the Annual Meeting of the Cognitive Science Society} (Vol. 46).'
+citation: 'Cross, L., Xiang, V., Haber, N., \& Yamins, D. (2024). Animate Agent World Modeling Benchmark. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).'
 ---
 Abstract
 =====
