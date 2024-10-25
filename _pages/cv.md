@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume/CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Current CV](https://locross93.github.io/files/Logan_Cross_CV.pdf)
+[Resume](https://locross93.github.io/files/Logan_Cross_resume.pdf)
+[CV](https://locross93.github.io/files/Logan_Cross_CV.pdf)
