@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 [Resume](https://locross93.github.io/files/Logan_Cross_Resume.pdf)
+
 [CV](https://locross93.github.io/files/Logan_Cross_CV.pdf)
