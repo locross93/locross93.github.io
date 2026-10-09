@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Logan Cross"
 title_separator          : "-"
 name                     : &name "Logan Cross"
-description              : &description "Neuro/AI - Google DeepMind"
+description              : &description "Senior Research Scientist - Google DeepMind"
 url                      : https://locross93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "locross93/locross93.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Logan Cross"
   avatar           : "https://s.gravatar.com/avatar/33b6548018fe7dc7cb1baa061d59ddf6?s=300"
-  bio              : "Neuro/AI - Google DeepMind"
+  bio              : "Senior Research Scientist - Google DeepMind"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
